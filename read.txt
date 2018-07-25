@@ -4,4 +4,4 @@ Git is my favorite
 GIt
 GIt four
 GIt five
-creat a branch is quick & simple.
+creat a new branch is quick and simple
