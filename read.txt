@@ -5,3 +5,4 @@ GIt
 GIt four
 GIt five
 creat a new branch is quick and simple
+This is a bug test
